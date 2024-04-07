@@ -1,8 +1,7 @@
 Welcome to the future of gardening—where technology meets sustainability, and your backyard or living room transforms into a thriving oasis. 
 Imagine a sleek tower standing tall, its 3D-printed layers cradling vibrant greens, juicy tomatoes, and fiery peppers. Let’s dive into this hydroponic wonderland.
 -
-The Tower of Abundance
--
+The Tower of Abundance-
 Created by a modern-day alchemist, wielding a 3D printer instead of a cauldron. Each level houses a different crop, like a harmonious orchestra playing in perfect sync.
 -
 Why choose a tower for your hydroponic setup?
@@ -15,7 +14,7 @@ Nutrient-rich water flows through the tower, bathing roots in liquid gold. Tomat
 d. Year-Round Bounty -
 Forget frosty winters or scorching summers. Your tower dances with life all year. Fresh salads in December? Absolutely!
 -
-The Connection Between Tech and Nature -
+The Connection Between Tech and Nature-
 Supporting 3D printing isn’t about gadgets and toys; We can use technology to aid us in nurturing life and helping to build a culture of self-sustainability. 
 -
 The Tower’s Promise-
